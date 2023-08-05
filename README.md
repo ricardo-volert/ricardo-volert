@@ -15,7 +15,7 @@ At the age of 10, I had my first contact with HTML, but I learned a lot about th
 
 ### Front / Back Programmer since childhood
 
-Born in times when NVU was my best friend, I grew up and worked as a developer, mainly FrontEnd, however, life separated me from this project from a very cool career that before considered only a ✨hobby✨;
+Born in times when NVU (and MS Front Page) was my best friend, I grew up and worked as a developer, mainly FrontEnd, however, life separated me from this project from a very cool career that before considered only a ✨hobby✨;
 
 For years I performed several other tasks and jobs, which made my PHP5.3 / 7.0 codes become a ⚡legacy 😄 and become the reason for the desire for a professional renewal and relearning;
 
